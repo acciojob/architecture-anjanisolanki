@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+body {
+    width: 1100px;
+    margin: 0 auto; /* This centers the 1100px block on the screen */
+}
+
+table {
+    border-collapse: collapse; /* Keeps the table looking clean like the preview */
+}
+
+td {
+    vertical-align: top;
+    padding: 10px;
+}
